@@ -1,4 +1,4 @@
-## Deliverable 1
+# Deliverable 1
 
 #Import ibrary
 library(dplyr)
@@ -11,3 +11,6 @@ lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 
 #Summary of linear regression to determine the p-value and r-squared
 summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, MechaCar))
+
+# Deliverale 2
+
