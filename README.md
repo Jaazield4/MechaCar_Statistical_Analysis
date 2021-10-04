@@ -32,6 +32,25 @@ when we group the total by manufacturing lots it is noticeable that lot 3 has a 
 
 
 ## T-Tests on Suspension Coils
+![image](https://user-images.githubusercontent.com/85451089/135799648-2076c77a-24bf-47c2-81a9-8e40e1d83133.png)
 
+When conducting a One Sample t-test on the population we see that the mean is 1498.78 which sets the standard when conducting the individual lots. As we can see by the
+p-value of 0.06 we can conclude that we fail to reject the Null Hypothesis.
+
+![image](https://user-images.githubusercontent.com/85451089/135799981-35cadb4c-85ac-4625-b8ed-3510de770ff9.png)
+
+Taking a look at the results of the t test for lot 1 we see that the mean is just about equal to the population mean. The p-value for lot one is extremely significant
+meaning that we fail to reject the Null Hypothesis in lot 1 just as for the population.
+
+![image](https://user-images.githubusercontent.com/85451089/135800169-28d0e395-20a6-4e88-a7d3-5c750c7ba05d.png)
+
+When examining the t-test for lot two we see that the mean is extremely similar to that of lot one and can confidently say there is not much difference. Even though the 
+p-value for lot 2 is lower than the p-value for lot 1 it is still well over the significance level and we can confidently say that we would fail to reject
+the null hypothesis.
+
+![image](https://user-images.githubusercontent.com/85451089/135801303-7dbf115a-b572-4454-b03f-9a6440c45294.png)
+
+Lot3 on the other hand is the most different from the three lots. Even though the mean is not that far away from the others it is the furthest away at 1496.14.
+The significance level for this lot is also extremely low at 0.04 meaning that in the case of lot 3 we would reject the null hypothesis.
 
 ## Study Design: MehaCar vs. Competition
