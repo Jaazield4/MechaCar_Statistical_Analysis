@@ -27,6 +27,9 @@ and there is influence in predicting the mpg of MechaCar Prototypes.
 When comparing the variance for the entire data set we see that the Variance_PSI is at about 62.3 which does not exceed the maximum pounds per square inch. However,
 when we group the total by manufacturing lots it is noticeable that lot 3 has a goes over the 100 pounds per square inch maximum. 
 
+![image](https://user-images.githubusercontent.com/85451089/135799399-4eda5a96-763d-4be5-a81f-b0112929929b.png)
+![image](https://user-images.githubusercontent.com/85451089/135799466-3fdbb40f-e032-4d47-b310-8a7075101e00.png)
+
 
 ## T-Tests on Suspension Coils
 
