@@ -53,4 +53,11 @@ the null hypothesis.
 Lot3 on the other hand is the most different from the three lots. Even though the mean is not that far away from the others it is the furthest away at 1496.14.
 The significance level for this lot is also extremely low at 0.04 meaning that in the case of lot 3 we would reject the null hypothesis.
 
-## Study Design: MehaCar vs. Competition
+## Study Design: MechaCar vs. Competition
+By using an ANOVA test we would be able to compare the fuel efficiency of MechaCar compared to other cars in its class. To conduct this test we would need
+the following.
+- Metrics: To conduct a fuel efficiency study we would need to determine what cars classify in the same class as MechaCar such as weight, and fuel tank size
+- Null Hypothesis: All cars in the same class as the MechaCar have the same fuel efficiency
+- Alternative Hypothesis: Cars in the same class as the MechaCar have different fuel efficiency
+- For this we would run a two-way ANOVA test since we have two independent variables we are fuel efficiency based on weight and fuel tank size.
+- Data: Cars belonging to the same class as MechaCar along with their weight and fuel tank size.
